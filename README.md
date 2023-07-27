@@ -1,6 +1,8 @@
 ### Hello .gitignore
 
-> Collected some commonly used gitignore files, more tailored to personal use. XD
+> Collected some commonly used .gitignore files, more tailored to personal use. XD
+>
+> If you expect to find a comprehensive .gitignore document, please go to [this repository](https://github.com/github/gitignore)
 
 
 
@@ -15,10 +17,8 @@ You can search for the tags which you need.
 Make sure you are in the project path
 
 # Step 2
-grep -A [n] [tag] .gitignore
+grep -i -A [n] [tag] .gitignore
 ```
-
-
 
 
 
