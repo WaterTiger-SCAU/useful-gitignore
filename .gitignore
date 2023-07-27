@@ -1,1 +1,21 @@
+# macOS
+.DS_Store
+*.Ds_Store
 
+# IntelliJ IDEA
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+target/
+
+# Java
+*.class
+*.jar
+*.war
