@@ -19,7 +19,7 @@ You can search for the tags which you need.
 Make sure you are in the project path
 
 # Step 2
-grep -i -A [n] [tag] .gitignore
+grep -i -A 5 [tag] .gitignore
 ```
 
 

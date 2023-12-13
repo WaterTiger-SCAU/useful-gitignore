@@ -2,6 +2,9 @@
 .DS_Store
 *.Ds_Store
 
+
+
+
 # IntelliJ IDEA
 .idea
 *.iws
@@ -14,6 +17,7 @@ out/
 mvnw
 mvnw.cmd
 target/
+
 
 # Java
 *.class
